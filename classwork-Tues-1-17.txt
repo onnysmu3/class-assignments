@@ -1,0 +1,8 @@
+.
+..
+badly-named-file.txt
+classwork-011717
+classwork-Tues-1-17.txt
+.git
+readme.txt
+temp.txt
