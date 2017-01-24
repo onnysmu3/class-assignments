@@ -1,0 +1,80 @@
+  633  cd Desktop
+  634  ls
+  635  cp Screenshot from 2017-01-18 17-00-48.png > ~/Desktop/eeb-177/lab-work
+  636  history
+  637  ls
+  638  grep -n -i -w iguana cep-taxa.txt
+  639  less cep-taxa.txt
+  640  history
+  641  grep -v -i -w ara cep-taxa.txt
+  642  grep -v -c -i -w ara cep-taxa.txt
+  643  grep -v -n -i -w ara cep-taxa.txt
+  644  grep -v -n -i -w ara cep-taxa.txt >> non-macaws.txt
+  645  ls -l
+  646  gedit non-macaws.txt
+  647  ls
+  648  find .*
+  649  find .
+  650  ls -la
+  651  find .*
+  652  ls ..?
+  653  ls ../
+  654  find ../data
+  655  pwd
+  656  find /home/eeb177-student/Desktop/eeb-177/CSB/unix/sandbox
+  657  find .* /home/eeb177-student/Desktop/eeb-177/CSB/unix/sandbox
+  658  find ../data | wc -l
+  659  find ../data -name "n30.txt"
+  660  find ../data -name ".txt"
+  661  find ../data -name "*.txt"
+  662  find -name ../data/ "n30.txt"
+  663  find ../data -name "n30.txt"
+  664  find /home/eeb177-student/Desktop/ -name "classwork-Tues-1-17-17.txt"
+  665  find /home/eeb177-student/Desktop/eeb-177/CSB/unix/sandbox -iname "classwork-Tues-1-17-17.txt"
+  666  find /home/eeb177-student/Desktop/eeb-177/CSB/unix/sandbox -iname "*about*"
+  667  find ../data/ -iname "*about*"
+  668  find -iname "*about*"
+  669  ls
+  670  pwd
+  671  find ../../../../
+  672  find ../
+  673  find ../../
+  674  find ../../../../../Desktop -iname "*classwork*"
+  675  find ../../../../../Desktop -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignment/classwork-Tues-1-24.txt
+  676  cd ../../
+  677  ls
+  678  cd eeb-177
+  679  ls
+  680  cd class assignments
+  681  find ../../../../../Desktop -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+  682  cd class-assignments
+  683  pwd
+  684  find ../../../../../Desktop -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+  685  find ../../../../../Desktop/ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+  686  find ../../../../../Desktop -iname "*classwork*"
+  687  ls
+  688  cd ../
+  689  ;s
+  690  ls
+  691  cd CSB
+  692  ls
+  693  cd unix
+  694  ls
+  695  cd sandbox
+  696  find ../../../../../Desktop -iname "*classwork*"
+  697  find ../../../../../Desktop/ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+  698  cd ~
+  699  cd Desktop/eeb-177/CSB/unix/sandbox
+  700  ls -l
+  701  touch permission.txt
+  702  ls -l
+  703  chmod u=rwx permission.txt
+  704  ls -l
+  705  history
+  706  history 25
+  707  history 40
+  708  history 50
+  709  history 70
+  710  history 100
+  711  history 80
+  712  history 80 >> ~/Desktop/Tues-01-24-17.txt
