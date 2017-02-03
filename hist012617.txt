@@ -1,0 +1,80 @@
+ 1147  git commit -m "initial commit: adding regex_hw_Onny file"
+ 1148  git push
+ 1149  ls
+ 1150  cd Desktop
+ 1151  ls
+ 1152  cd eeb-177
+ 1153  ls
+ 1154  cd class-assignments
+ 1155  ls
+ 1156  touch classwork-Thurs-012617.txt
+ 1157  ls
+ 1158  ls -la
+ 1159  touch permission.txt
+ 1160  ls -l
+ 1161  chmod u=rwx permission.txt
+ 1162  ls
+ 1163  ls -la
+ 1164  chmod u=-r permission.txt
+ 1165  ls -la
+ 1166  chmod u=rwx permission.txt
+ 1167  ls -la
+ 1168  gedit
+ 1169  ls -la
+ 1170  ls /usr/bin
+ 1171  ls /bin
+ 1172  $PATH
+ 1173  ls
+ 1174  cd 
+ 1175  pwd
+ 1176  mkdir scripts
+ 1177  ls
+ 1178  cd scripts
+ 1179  ls
+ 1180  pwd
+ 1181  mv ~/Desktop/eeb-177/class-assignments/
+ 1182  cd
+ 1183  cd Desktop/eeb-177/class-assignments
+ 1184  pwd
+ 1185  cd
+ 1186  cd scripts
+ 1187  mv ~/Desktop/eeb-177/class-assignments/
+ 1188  cd Desktop/eeb-177/class-assignments
+ 1189  mv ~/Desktop/eeb-177/class-assignments/dir.sh ./
+ 1190  ls
+ 1191  cd
+ 1192  gedit .bash_profile
+ 1193  ls -a
+ 1194  $PATH
+ 1195  cd scripts
+ 1196  ls
+ 1197  ls -a
+ 1198  ls -l
+ 1199  chmod u=rwx dir.sh
+ 1200  ls -l
+ 1201  cd
+ 1202  ls
+ 1203  cd Desktop
+ 1204  ls
+ 1205  cd eeb-177
+ 1206  ls
+ 1207  cd class-assignment
+ 1208  cd class-assignments
+ 1209  ls
+ 1210  cd
+ 1211  ls .a
+ 1212  ls -a
+ 1213  gedit .profile
+ 1214  sudo reboot
+ 1215  $PATH
+ 1216  cd Desktop
+ 1217  dir.sh
+ 1218  cd
+ 1219  cd scripts
+ 1220  gedit sir.sh
+ 1221  gedit dir.sh
+ 1222  cd
+ 1223  cd Desktop
+ 1224  dir.sh
+ 1225  history
+ 1226  history 80 >> ~/Desktop/hist012617.txt
