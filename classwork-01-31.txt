@@ -1,0 +1,15 @@
+ 1384  cd eeb-177
+ 1385  ls
+ 1386  cd class-assignments
+ 1387  jupiter notebook
+ 1388  jupyter notebook
+ 1389  ls
+ 1390  git init
+ 1391  git commit -m "initial commit: adding classwork-Tuesday-1-31 jupyter notebook file"
+ 1392  git push
+ 1393  ls
+ 1394  git add classwork-Tuesday-1-31.ipynb
+ 1395  git commit -m "initial commit: adding classwork-Tuesday-1-31 jupyter notebook file"
+ 1396  git push
+ 1397  history
+ 1398  history 15 > classwork-01-31.txt
