@@ -1,0 +1,55 @@
+ 1990  cd Desktop
+ 1991  cd eeb-177
+ 1992  cd class-assignments/
+ 1993  `ls
+ 1994  ls
+ 1995  jupyter notebook
+ 1996  cd ..
+ 1997  cd class-assignments/
+ 1998  mkdir classwork-21-Feb
+ 1999  ls
+ 2000  cd Desktop/eeb-177
+ 2001  cd class-assignments/
+ 2002  ls
+ 2003  cd classwork-21-Feb/
+ 2004  ls
+ 2005  gedit cocoli.txt
+ 2006  ls
+ 2007  gedit cocolisp.txt 
+ 2008  ls
+ 2009  gedit cocoli.txt
+ 2010  ls
+ 2011  see cocoli_files.doc 
+ 2012  ls
+ 2013  gedit mult1.txt 
+ 2014  ls
+ 2015  see cocoli_files.doc 
+ 2016  gedit mult1.txt 
+ 2017  cd ..
+ 2018  ls
+ 2019  mv classwork_Tues_022117.ipynb ./classwork-21-Feb/
+ 2020  cd classwork-21-Feb/
+ 2021  ls
+ 2022  jupyter notebook
+ 2023  ls
+ 2024  grep 000011 mult2.txt 
+ 2025  grep 000011 mult1.txt 
+ 2026  less cocoli.txt 
+ 2027  grep CAL2CA cocolisp.txt 
+ 2028  less cocoli.txt 
+ 2029  see cocoli_files.doc 
+ 2030  ls
+ 2031  gedit cocoli.txt 
+ 2032  jupyter notebook
+ 2033  LS
+ 2034  ls
+ 2035  sed 's/\s/,/g' cocolisp.txt 
+ 2036  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 3
+ 2037  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 2
+ 2038  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 2 | sort | uniq -c
+ 2039  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 2 | sort | uniq -c | sort -n
+ 2040  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 2 | sort | uniq -c | sort -n | grep -w 1
+ 2041  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 2 | sort | uniq -c | sort -n | grep -w 1 | wc -l
+ 2042  sed 's/\s/,/g' cocolisp.txt | cut -d "," -f 2 | wc -l
+ 2043  history
+ 2044  history 55 > hist-Tues-022117.txt
